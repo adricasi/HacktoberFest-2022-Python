@@ -8,7 +8,7 @@
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
-This repo is aimed at people who are new to open-source, earn and learn from that experience.
+This repo is aimed at people who are new to Open-Source, earn and learn from that experience.
 
 ### Goal of this repository
 There are many repositories on GitHub that contain a collection of algorithms and data structures in different programming languages. The goal of this repository is to provide a collection of algorithms and data structures in Python. Aim of this repository is to become a one-stop repository for all the algorithms and data structures in Python. 
